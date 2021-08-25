@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Order Order snapshot  1`] = `
+Object {
+  "ASC": "ASC",
+  "DESC": "DESC",
+}
+`;
